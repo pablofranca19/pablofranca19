@@ -46,8 +46,8 @@ Caso gostaria de saber um pouco mais sobre mim e minha história, basta clicar n
 
                                              ========= ENGLISH ==========
 Hello! Great pleasure to meet you, my name is Pablo and I currently study Software Engineering at Catholic University of Salvador (in portuguese acronym, UCSAL).
-I'm 17 years old and I am starting to give my first steps in the study area. At the moment, I'm studying Java as my first ever programming language and also Power BI.
-This is my Git Hub profile, which I will use it to show my projects throughout my university and self-taught career.
+I'm 17 years old and I am starting to give my first steps on the area. At the present time, I'm studying Java as my first ever programming language and also Power BI as Data Science.
+This is my Git Hub profile, which i'm going to use it to show my projects throughout my university and self-taught career.
 If you would like to know more about me and my story, just click on my LinkedIn attached profile on Git Hub.
 
 <!---
