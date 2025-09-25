@@ -10,15 +10,8 @@
 
 ## Minhas estatísticas / My statistics
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-     <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablofranca19&theme=nord_dark) " alt="This year">
-    </a>
-  </div>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablofranca19&theme=nord_dark" alt="GitHub Stats">
-  </div>
-</div>
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablofranca19&theme=nord_dark) ](https://www.linkedin.com/in/%20pablofranca2007)&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablofranca19&theme=nord_dark)
+
 ---
 
 ### Tecnologias que utilizo / Tecnologies which I use
