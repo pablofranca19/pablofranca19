@@ -10,7 +10,7 @@
 
 ## Minhas estatísticas / My statistics
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablofranca19&show_icons=true&theme=dracula)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablofranca19theme=nord_dark)
  
 ---
 
