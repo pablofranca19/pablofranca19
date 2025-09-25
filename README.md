@@ -2,9 +2,7 @@
 
 `Mostly Java developer`
 
-<br>
-
-<div class="tenor-gif-embed" data-postid="15900092247336558740" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/stampy-you%27re-going-to-java-falling-fall-falling-in-hole-gif-15900092247336558740">Stampy You&#39;Re Going To Java GIF</a>from <a href="https://tenor.com/search/stampy-gifs">Stampy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Image](https://github.com/user-attachments/assets/ef442729-718b-4fcd-ac34-539a3e8e09db)
 
 ## Meu LinkedIn / My LinkedIn profile
 
