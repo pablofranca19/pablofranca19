@@ -10,8 +10,8 @@
 
 ## Minhas estatísticas / My statistics
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablofranca19theme=nord_dark)
- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablofranca19&theme=nord_dark)
+
 ---
 
 ### Tecnologias que utilizo / Tecnologies which I use
