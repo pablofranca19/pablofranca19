@@ -1,18 +1,18 @@
 # Olá! 👋
 <div align="center">
-`Mostly Java developer`
+<h3>Java Developer and Data Visualization ☕</h3>
 </div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ef442729-718b-4fcd-ac34-539a3e8e09db" width="400"/>
 </div>
 
-## Meu LinkedIn / My LinkedIn profile
+## Meu LinkedIn / My LinkedIn profile 👨‍💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%20pablofranca2007)
 
 <div align="center">
 
-## Minhas estatísticas / My statistics
+## Minhas estatísticas / My statistics 📊
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablofranca19&theme=nord_dark)](https://www.linkedin.com/in/%20pablofranca2007)
 
