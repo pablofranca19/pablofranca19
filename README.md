@@ -1,7 +1,7 @@
 # Olá! 👋 Hello!
 
 <div align="center">
-  <h3>☕ Java Developer | 📊 Data Visualization Enthusiast</h3>
+  <h3>☕ Future Java Developer ☕</h3>
 </div>
 
 ---
